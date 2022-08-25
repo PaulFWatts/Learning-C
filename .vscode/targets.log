@@ -1,6 +1,4 @@
 make all --print-data-base --no-builtin-variables --no-builtin-rules --question
-make: *** No rule to make target 'all'.  Stop.
-
 # GNU Make 4.3
 # Built for x86_64-pc-linux-gnu
 # Copyright (C) 1988-2020 Free Software Foundation, Inc.
@@ -8,7 +6,7 @@ make: *** No rule to make target 'all'.  Stop.
 # This is free software: you are free to change and redistribute it.
 # There is NO WARRANTY, to the extent permitted by law.
 
-# Make data base, printed on Sun Aug 21 04:43:53 2022
+# Make data base, printed on Thu Aug 25 15:35:26 2022
 
 # Variables
 
@@ -26,6 +24,8 @@ SSH_AGENT_LAUNCHER = gnome-keyring
 GJS_DEBUG_OUTPUT = stderr
 # environment
 VSCODE_CWD = /home/paul
+# environment
+WINDOWPATH = 2
 # default
 MAKE_COMMAND := make
 # environment
@@ -43,7 +43,7 @@ PWD = /home/paul/course_repos_linux/Learning C
 # automatic
 %D = $(patsubst %/,%,$(dir $%))
 # environment
-XDG_DATA_DIRS = /usr/share/ubuntu-wayland:/usr/local/share/:/usr/share/:/var/lib/snapd/desktop
+XDG_DATA_DIRS = /usr/share/ubuntu:/usr/share/gnome:/usr/local/share/:/usr/share/:/var/lib/snapd/desktop
 # automatic
 ^D = $(patsubst %/,%,$(dir $^))
 # automatic
@@ -53,7 +53,7 @@ VSCODE_CODE_CACHE_PATH = /home/paul/.config/Code/CachedData/e4503b30fc78200f846c
 # environment
 LANG = C
 # environment
-XAUTHORITY = /run/user/1000/.mutter-Xwaylandauth.PW9GR1
+XAUTHORITY = /run/user/1000/gdm/Xauthority
 # default
 .LOADED := 
 # default
@@ -75,25 +75,23 @@ SSH_AUTH_SOCK = /run/user/1000/keyring/ssh
 # default
 .SHELLFLAGS := -c
 # environment
-WAYLAND_DISPLAY = wayland-0
-# environment
-XDG_CONFIG_DIRS = /etc/xdg/xdg-ubuntu-wayland:/etc/xdg
+XDG_CONFIG_DIRS = /etc/xdg/xdg-ubuntu:/etc/xdg
 # automatic
 +D = $(patsubst %/,%,$(dir $+))
 # environment
-XDG_SESSION_DESKTOP = ubuntu-wayland
+XDG_SESSION_DESKTOP = ubuntu
 # makefile
 MAKEFILE_LIST := 
 # automatic
 @F = $(notdir $@)
 # environment
-VSCODE_PID = 37962
+VSCODE_PID = 10305
 # environment
-XDG_SESSION_TYPE = wayland
+XDG_SESSION_TYPE = x11
 # automatic
 ?D = $(patsubst %/,%,$(dir $?))
 # environment
-SESSION_MANAGER = local/Deckard:@/tmp/.ICE-unix/1731,unix/Deckard:/tmp/.ICE-unix/1731
+SESSION_MANAGER = local/Deckard:@/tmp/.ICE-unix/5215,unix/Deckard:/tmp/.ICE-unix/5215
 # automatic
 *F = $(notdir $*)
 # environment
@@ -122,8 +120,6 @@ GJS_DEBUG_TOPICS = JS ERROR;JS LOG
 SHLVL = 0
 # environment
 MAKELEVEL := 0
-# environment
-IM_CONFIG_CHECK_ENV = 1
 # default
 MAKE = $(MAKE_COMMAND)
 # environment
@@ -137,11 +133,9 @@ LANGUAGE = en_AU:en
 # environment
 PYENV_VIRTUALENV_INIT = 1
 # environment
-INVOCATION_ID = 0d07299e1c12467da6cb15868bab0c82
+INVOCATION_ID = 94698df225bb47d58d3cf1bd8b8cfcc9
 # environment
 USERNAME = paul
-# environment
-GNOME_SETUP_DISPLAY = :2
 # environment
 LESSCLOSE = /usr/bin/lesspipe %s %s
 # automatic
@@ -153,7 +147,7 @@ LS_COLORS =
 # automatic
 +F = $(notdir $+)
 # environment
-DESKTOP_SESSION = ubuntu-wayland
+DESKTOP_SESSION = ubuntu
 # environment
 ORIGINAL_XDG_CURRENT_DESKTOP = ubuntu:GNOME
 # 'override' directive
@@ -165,7 +159,7 @@ GIO_LAUNCHED_DESKTOP_FILE = /usr/share/applications/code.desktop
 # makefile
 .DEFAULT_GOAL := 
 # environment
-SYSTEMD_EXEC_PID = 1749
+SYSTEMD_EXEC_PID = 5234
 # environment
 DISPLAY = :1
 # environment
@@ -175,15 +169,17 @@ GTK_MODULES = gail:atk-bridge
 # default
 MAKE_VERSION := 4.3
 # environment
-MANAGERPID = 1598
+MANAGERPID = 5020
 # environment
-GIO_LAUNCHED_DESKTOP_FILE_PID = 37962
+GIO_LAUNCHED_DESKTOP_FILE_PID = 10305
 # environment
 _ = /usr/share/code/code
 # environment
 XDG_RUNTIME_DIR = /run/user/1000
 # environment
-JOURNAL_STREAM = 8:33158
+GPG_AGENT_INFO = /run/user/1000/gnupg/S.gpg-agent:0:1
+# environment
+JOURNAL_STREAM = 8:50253
 # environment
 XDG_SESSION_CLASS = user
 # environment
@@ -196,8 +192,6 @@ QT_IM_MODULE = ibus
 ELECTRON_RUN_AS_NODE = 1
 # environment
 VSCODE_IPC_HOOK = /run/user/1000/vscode-59fb05bf-1.70.2-main.sock
-# environment
-IM_CONFIG_PHASE = 1
 # default
 .RECIPEPREFIX := 
 # automatic
@@ -211,9 +205,9 @@ XDG_MENU_PREFIX = gnome-
 # environment
 DOTNET_ROOT = /home/paul/dotnet
 # environment
-GDMSESSION = ubuntu-wayland
+GDMSESSION = ubuntu
 # variable set hash-table stats:
-# Load=100/1024=10%, Rehash=0, Collisions=2/127=2%
+# Load=98/1024=10%, Rehash=0, Collisions=2/125=2%
 
 # Pattern-specific Variable Values
 
@@ -221,9 +215,9 @@ GDMSESSION = ubuntu-wayland
 
 # Directories
 
-# . (device 2051, inode 2754516): 10 files, no impossibilities.
+# . (device 2051, inode 2754516): 12 files, no impossibilities.
 
-# 10 files, no impossibilities in 1 directories.
+# 12 files, no impossibilities in 1 directories.
 
 # Implicit Rules
 
@@ -273,12 +267,14 @@ GNUmakefile:
 
 # No general ('VPATH' variable) search path.
 
-# strcache buffers: 1 (0) / strings = 18 / storage = 204 B / avg = 11 B
-# current buf: size = 8162 B / used = 204 B / count = 18 / avg = 11 B
+# strcache buffers: 1 (0) / strings = 20 / storage = 246 B / avg = 12 B
+# current buf: size = 8162 B / used = 246 B / count = 20 / avg = 12 B
 
-# strcache performance: lookups = 21 / hit rate = 14%
+# strcache performance: lookups = 23 / hit rate = 13%
 # hash-table stats:
-# Load=18/8192=0%, Rehash=0, Collisions=0/21=0%
-# Finished Make data base on Sun Aug 21 04:43:53 2022
+# Load=20/8192=0%, Rehash=0, Collisions=0/23=0%
+# Finished Make data base on Thu Aug 25 15:35:26 2022
 
  
+make: *** No rule to make target 'all'.  Stop.
+
