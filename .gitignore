@@ -50,3 +50,8 @@ modules.order
 Module.symvers
 Mkfile.old
 dkms.conf
+001 Control Structures and Statements/Control_structures_and_statements
+002 C Operators/c_operators
+002 C Operators/while
+003 Decision Control Structures/Exercise_1
+hello_world
