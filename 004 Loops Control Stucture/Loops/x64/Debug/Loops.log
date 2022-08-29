@@ -1,3 +1,0 @@
-﻿  main.c
-D:\course-repos\Learning-C\004 Loops Control Stucture\Loops\main.c(42,9): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
-  Loops.vcxproj -> D:\course-repos\Learning-C\004 Loops Control Stucture\Loops\x64\Debug\Loops.exe

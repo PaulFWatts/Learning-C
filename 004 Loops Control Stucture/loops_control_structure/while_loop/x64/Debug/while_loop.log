@@ -1,0 +1,3 @@
+﻿  while_loop.c
+C:\Users\Paul Watts\OneDrive\Desktop\while_loop.c(42,9): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+  while_loop.vcxproj -> D:\course-repos\Learning-C\004 Loops Control Stucture\loops_control_structure\x64\Debug\while_loop.exe
