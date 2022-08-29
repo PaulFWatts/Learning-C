@@ -2,5 +2,7 @@
 
 [My C resources in Notion](https://www.notion.so/C-aa31b949675148ada22d2a5fdc971c83)
 
-Using Visual Studio 2022 on Windows 11 for Solution/Project Management
+**Using Visual Studio Code under Linux**
+
+
 
