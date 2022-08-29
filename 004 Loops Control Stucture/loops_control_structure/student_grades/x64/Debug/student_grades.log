@@ -1,3 +1,0 @@
-﻿  student_grades.c
-C:\Users\Paul Watts\OneDrive\Desktop\student_grades.c(10,6): warning C4101: 'average': unreferenced local variable
-  student_grades.vcxproj -> D:\course-repos\Learning-C\004 Loops Control Stucture\loops_control_structure\x64\Debug\student_grades.exe
