@@ -15,7 +15,7 @@
     </Filter>
   </ItemGroup>
   <ItemGroup>
-    <ClCompile Include="C:\Users\Paul Watts\OneDrive\Desktop\while_loop.c">
+    <ClCompile Include="while_loop.c">
       <Filter>Source Files</Filter>
     </ClCompile>
   </ItemGroup>
