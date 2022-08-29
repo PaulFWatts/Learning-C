@@ -1,4 +1,0 @@
-﻿  Lab7.c
-c:\users\dermoudy\onedrive - university of tasmania\teaching\units\kit107\2018\sem 1\tutorials\tutorial 7\lab7\lab7\lab7.c(27): warning C4013: 'delete_position' undefined; assuming extern returning int
-c:\users\dermoudy\onedrive - university of tasmania\teaching\units\kit107\2018\sem 1\tutorials\tutorial 7\lab7\lab7\lab7.c(30): warning C4013: 'getch' undefined; assuming extern returning int
-  Lab7.vcxproj -> C:\Users\dermoudy\OneDrive - University of Tasmania\Teaching\Units\KIT107\2018\sem 1\Tutorials\Tutorial 7\Lab7\Debug\Lab7.exe
