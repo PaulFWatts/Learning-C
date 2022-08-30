@@ -1,0 +1,5 @@
+# Simple makefile - Example 1
+# This is a simple makefile to demonstrate the use of makefiles.
+# Note: There must be a tab at the beginning of any command.
+hellomake: hellomake.c hellofunc.c
+	gcc -o hellomake hellomake.c hellofunc.c -I.
