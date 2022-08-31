@@ -2,7 +2,7 @@
 
 [My C resources in Notion](https://www.notion.so/C-aa31b949675148ada22d2a5fdc971c83)
 
-**Using Visual Studio Code under Linux**
+**Using Clion under Windows and Linux**
 
 
 
