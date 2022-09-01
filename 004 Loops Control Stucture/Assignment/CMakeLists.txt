@@ -10,4 +10,4 @@ add_executable(Problem_4 Problem_4.c)
 add_executable(Problem_5 Problem_5.c)
 add_executable(Problem_6 Problem_6.c)
 add_executable(Problem_7 Problem_7.c)
-
+add_executable(Problem_8 Problem_8.c)
