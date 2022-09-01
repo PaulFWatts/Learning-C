@@ -4,18 +4,15 @@
         Date:   30th August 2022
 
 */
-//
-
-
 
 #include <stdio.h>
 #include <stdlib.h>
 #include <stdbool.h>
 
 #ifdef _WIN32
-char clear[3] ="cls";
+    char clear[3] ="cls";
 #else
-char clear[5] = "clear";
+    char clear[5] = "clear";
 #endif
 
 void wait() {

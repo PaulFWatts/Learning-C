@@ -8,6 +8,12 @@
 #include <stdio.h>
 #include <stdbool.h>
 
+void wait() {
+    printf("Press any key to continue...\n");
+    int ch = getchar();
+    fflush(stdin);
+    ch = getchar();
+}
 int main()
 {
 
@@ -24,7 +30,6 @@ int main()
         }
         printf("\n");
     }
-    printf("Press any key to continue...\n");
-    getchar();
+    wait();
     return 0;
 }
