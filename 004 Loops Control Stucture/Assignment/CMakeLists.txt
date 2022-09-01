@@ -9,3 +9,5 @@ add_executable(Problem_3 Problem_3.c)
 add_executable(Problem_4 Problem_4.c)
 add_executable(Problem_5 Problem_5.c)
 add_executable(Problem_6 Problem_6.c)
+add_executable(Problem_7 Problem_7.c)
+

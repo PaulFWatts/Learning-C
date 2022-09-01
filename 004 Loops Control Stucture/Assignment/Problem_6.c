@@ -13,9 +13,9 @@
 #include <stdbool.h>
 
 #ifdef _WIN32
-    char clear[3] ="cls";
+char clear[3] ="cls";
 #else
-    char clear[5] = "clear";
+char clear[5] = "clear";
 #endif
 
 void wait() {
@@ -136,7 +136,7 @@ int main()
                 wait();
                 break;
             }
-              case 5:                         // Exit
+            case 5:                         // Exit
                 system(clear); // clear screen
                 printf("Exiting...\n");
                 exit = true;
