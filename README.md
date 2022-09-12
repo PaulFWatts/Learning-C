@@ -4,6 +4,8 @@
 
 [Awesome C](https://github.com/inputsh/awesome-c#readme)
 
+[Awesome CMake](https://github.com/onqtam/awesome-cmake#readme)
+
 **Using Clion under Windows and Linux**
 
 
