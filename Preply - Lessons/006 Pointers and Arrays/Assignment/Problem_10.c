@@ -37,8 +37,6 @@ int main(void)
         printf("Sum %d: %d times \n", i, tally[i]);
     }
 
-
-
     return 0;
 }
 

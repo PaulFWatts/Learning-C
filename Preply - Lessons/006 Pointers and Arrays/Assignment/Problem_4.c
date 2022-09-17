@@ -6,28 +6,29 @@
 */
 
 #include <stdio.h>
-#include <stdlib.h>
+
 
 int main(void)
 {
-// Write a program to initialize 200 random numbers using array. Display all numbers with
-// proper spaces and line break after 10 numbers.
+    // What is stored in list after the following code is executed?
 
-    int array[200];
+    int list[6];
+    list[0] = 5;
 
-    for (int i = 0; i < 200; i++)
+    for  (int i = 1; i < 6; i++)
     {
-        array[i] = rand();
+        list[i] = i * i + 5;
+            if (i > 2)
+            {
+                list[i] = 2 * list[i] - list[i -1];
+            }
     }
 
-    for (int i = 0; i < 200; i++)
+    for (int i = 0; i < 6; i++)
     {
-        printf(" %d ", array[i]);
-        if (i % 10 == 0) // This is a new line every 10 numbers
-        {
-            printf("\n");
-        }
+        printf("%d ", list[i]);
     }
+
     return 0;
 }
 

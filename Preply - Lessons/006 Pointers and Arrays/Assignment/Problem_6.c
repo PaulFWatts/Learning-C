@@ -1,4 +1,4 @@
-/* Solution to Problem: 3 | Arrays 1 dimensional, Random Numbers
+/* Solution to Problem: 6 | Arrays 1
 
     Author: Paul Watts
     Date:   17th September 2022
@@ -6,28 +6,43 @@
 */
 
 #include <stdio.h>
-#include <stdlib.h>
 
 int main(void)
 {
-// Write a program to initialize 200 random numbers using array. Display all numbers with
-// proper spaces and line break after 10 numbers.
+    // Write a C program that declares an array alpha of 60 components of type double.
+    // Initialize the array so that the first 20 components are equal to the square of the index variable,
+    // and the next 20 components are equal to three times the index variable.
+    // Last 20 elements are the sum of first 20 and last 20 indices.
+    // Output the array so that 10 elements per line are printed.
 
-    int array[200];
+    double alpha[60];
+    int i;
 
-    for (int i = 0; i < 200; i++)
+
+    for (i = 0; i < 20; i++)
     {
-        array[i] = rand();
+        alpha[i] = i * i;
     }
 
-    for (int i = 0; i < 200; i++)
+    for (i = 20; i < 40; i++)
     {
-        printf(" %d ", array[i]);
-        if (i % 10 == 0) // This is a new line every 10 numbers
+        alpha[i] = 3 * i;
+    }
+
+    for (i = 40; i < 60; i++)
+    {
+        alpha[i] = alpha[i - 20] + alpha[i - 40];
+    }
+
+    for (i = 0; i < 60; i++)
+    {
+        printf("%f ", alpha[i]);
+        if ((i + 1) % 10 == 0) // Print 10 elements per line
         {
             printf("\n");
         }
     }
+
     return 0;
 }
 

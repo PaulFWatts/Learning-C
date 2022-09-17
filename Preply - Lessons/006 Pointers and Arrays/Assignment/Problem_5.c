@@ -1,4 +1,4 @@
-/* Solution to Problem: 3 | Arrays 1 dimensional, Random Numbers
+/* Solution to Problem: 5 | Arrays 1 dimensional
 
     Author: Paul Watts
     Date:   17th September 2022
@@ -6,28 +6,26 @@
 */
 
 #include <stdio.h>
-#include <stdlib.h>
+
 
 int main(void)
 {
-// Write a program to initialize 200 random numbers using array. Display all numbers with
-// proper spaces and line break after 10 numbers.
+    // Determine whether the following array declarations are valid.
 
-    int array[200];
+    int a[5] = {0, 4, 3, 2, 7};
+    printf("a.) a[5] = {0, 4, 3, 2, 7} is valid \n");
+    int b[10] = {0, 7, 3, 12};
+    printf("b.) b[10] = {0, 7, 3, 12} is valid \n");
+    // int c[7] = {12, 13, , 14,16, , 8};
+    printf("c.) c[7] = {12, 13, , 14,16, , 8} is invalid \n");
+    double lengths[] = {12.7, 13.9, 18.75, 20.78};
+    printf("d.) double lengths[] = {12.7, 13.9, 18.75, 20.78} is valid \n");
+    char name[8] = "Samantha";
+    printf("e.) char name[8] = \"Samantha\" is valid \n");
 
-    for (int i = 0; i < 200; i++)
-    {
-        array[i] = rand();
-    }
+    int list[10] = {8, 9, 15, 12,80};
+    printf("f.) int list[10] = {8, 9, 15, 12,80} is valid \n");
 
-    for (int i = 0; i < 200; i++)
-    {
-        printf(" %d ", array[i]);
-        if (i % 10 == 0) // This is a new line every 10 numbers
-        {
-            printf("\n");
-        }
-    }
     return 0;
 }
 
