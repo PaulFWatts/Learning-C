@@ -1,0 +1,166 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="CMakePresetLoader"><![CDATA[{
+  "useNewFormat": true
+}]]></component>
+  <component name="CMakeReloadState">
+    <option name="reloaded" value="true" />
+  </component>
+  <component name="CMakeRunConfigurationManager">
+    <generated>
+      <config projectName="Week_8___Linked_Lists" targetName="Week_8___Linked_Lists" />
+    </generated>
+  </component>
+  <component name="CMakeSettings">
+    <configurations>
+      <configuration PROFILE_NAME="Debug" ENABLED="true" CONFIG_NAME="Debug" />
+    </configurations>
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="9edf007e-c25d-49bd-8587-1dac8c39065d" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/../Week 5 - Determine the date of Easter/.idea/.name" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Week 5 - Determine the date of Easter/.idea/Week 5 - Determine the date of Easter.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Week 5 - Determine the date of Easter/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Week 5 - Determine the date of Easter/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Week 5 - Determine the date of Easter/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Week 5 - Determine the date of Easter/CMakeLists.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Week 6 - Pointers/.idea/Week 6 - Pointers.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Week 6 - Pointers/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Week 6 - Pointers/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Week 6 - Pointers/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Week 6 - Pointers/CMakeLists.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Week 7 - Functions/.idea/Week 7 - Functions.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Week 7 - Functions/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Week 7 - Functions/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Week 7 - Functions/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Week 7 - Functions/CMakeLists.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/.name" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/Week 8 - Linked Lists.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/CMakeLists.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Week 5/easter" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Week 5/easter.c" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Week 5/t4i.pdf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Week 5/t4q.pdf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Week 6/max.c" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Week 6/t5q.pdf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Week 6/variables.c" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Week 6/variables1.c" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Week 6/variables2.c" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Week 7/middling.c.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Week 7/t6q.pdf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Lab7 solution/.vs/Lab7/FileContentIndex/a58a6c47-da25-4c6e-a3bb-73b317e86219.vsidx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Lab7 solution/.vs/Lab7/FileContentIndex/read.lock" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Lab7 solution/.vs/Lab7/v15/.suo" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Lab7 solution/.vs/Lab7/v15/Browse.VC.db" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Lab7 solution/.vs/Lab7/v15/ipch/AutoPCH/66a676f77ef4b964/LAB7.ipch" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Lab7 solution/.vs/Lab7/v15/ipch/AutoPCH/8c692f4c9944b331/TEAM.ipch" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Lab7 solution/.vs/Lab7/v15/ipch/AutoPCH/e8f4606c05f27e5d/POSITION.ipch" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Lab7 solution/.vs/Lab7/v17/.suo" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Lab7 solution/.vs/Lab7/v17/Browse.VC.db" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Lab7 solution/.vs/Lab7/v17/ipch/AutoPCH/dc40b6c17ccdbb2c/LAB7.ipch" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Lab7 solution/Debug/Lab7.exe" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Lab7 solution/Debug/Lab7.ilk" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Lab7 solution/Debug/Lab7.pdb" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Lab7 solution/Lab7.sln" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Lab7 solution/Lab7/Debug/Lab7.exe.recipe" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Lab7 solution/Lab7/Debug/Lab7.ilk" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Lab7 solution/Lab7/Debug/Lab7.log" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Lab7 solution/Lab7/Debug/Lab7.obj" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Lab7 solution/Lab7/Debug/Lab7.tlog/CL.command.1.tlog" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Lab7 solution/Lab7/Debug/Lab7.tlog/CL.read.1.tlog" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Lab7 solution/Lab7/Debug/Lab7.tlog/CL.write.1.tlog" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Lab7 solution/Lab7/Debug/Lab7.tlog/Lab7.lastbuildstate" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Lab7 solution/Lab7/Debug/Lab7.tlog/link.command.1.tlog" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Lab7 solution/Lab7/Debug/Lab7.tlog/link.read.1.tlog" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Lab7 solution/Lab7/Debug/Lab7.tlog/link.write.1.tlog" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Lab7 solution/Lab7/Debug/position.obj" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Lab7 solution/Lab7/Debug/team.obj" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Lab7 solution/Lab7/Debug/vc141.idb" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Lab7 solution/Lab7/Debug/vc141.pdb" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Lab7 solution/Lab7/Debug/vc143.idb" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Lab7 solution/Lab7/Debug/vc143.pdb" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Lab7 solution/Lab7/Lab7.c" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Lab7 solution/Lab7/Lab7.vcxproj" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Lab7 solution/Lab7/Lab7.vcxproj.filters" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Lab7 solution/Lab7/Lab7.vcxproj.user" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Lab7 solution/Lab7/position.c" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Lab7 solution/Lab7/position.h" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Lab7 solution/Lab7/team.c" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Lab7 solution/Lab7/team.h" beforeDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ClangdSettings">
+    <option name="formatViaClangd" value="false" />
+  </component>
+  <component name="ExecutionTargetManager" SELECTED_TARGET="CMakeBuildProfile:Debug" />
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/../../.." />
+  </component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
+  </component>
+  <component name="ProjectApplicationVersion">
+    <option name="ide" value="CLion" />
+    <option name="majorVersion" value="2022" />
+    <option name="minorVersion" value="2.3" />
+  </component>
+  <component name="ProjectId" id="2FBMGDC5NeMpFiRnCSUGI3DStYj" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "ASKED_ADD_EXTERNAL_FILES": "true",
+    "ASKED_SHARE_PROJECT_CONFIGURATION_FILES": "true",
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "RunOnceActivity.cidr.known.project.marker": "true",
+    "SHARE_PROJECT_CONFIGURATION_FILES": "true",
+    "WebServerToolWindowFactoryState": "false",
+    "cf.first.check.clang-format": "false",
+    "cidr.known.project.marker": "true",
+    "last_opened_file_path": "D:/course-repos/Learning-C/Kit107 Abstract Data Types in Java and C/Tutorials/Week 8 - Linked Lists"
+  }
+}]]></component>
+  <component name="RunManager">
+    <configuration default="true" type="CLionExternalRunConfiguration" factoryName="Application" REDIRECT_INPUT="false" ELEVATE="false" USE_EXTERNAL_CONSOLE="false" PASS_PARENT_ENVS_2="true">
+      <method v="2">
+        <option name="CLION.EXTERNAL.BUILD" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Week_8___Linked_Lists" type="CMakeRunConfiguration" factoryName="Application" REDIRECT_INPUT="false" ELEVATE="false" USE_EXTERNAL_CONSOLE="false" PASS_PARENT_ENVS_2="true" PROJECT_NAME="Week_8___Linked_Lists" TARGET_NAME="Week_8___Linked_Lists" CONFIG_NAME="Debug" RUN_TARGET_PROJECT_NAME="Week_8___Linked_Lists" RUN_TARGET_NAME="Week_8___Linked_Lists">
+      <method v="2">
+        <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="9edf007e-c25d-49bd-8587-1dac8c39065d" name="Changes" comment="" />
+      <created>1663960927457</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1663960927457</updated>
+      <workItem from="1663960929518" duration="169000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
+  </component>
+</project>

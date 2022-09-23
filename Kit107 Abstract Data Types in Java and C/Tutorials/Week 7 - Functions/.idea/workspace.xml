@@ -1,0 +1,121 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="CMakePresetLoader"><![CDATA[{
+  "useNewFormat": true
+}]]></component>
+  <component name="CMakeReloadState">
+    <option name="reloaded" value="true" />
+  </component>
+  <component name="CMakeRunConfigurationManager">
+    <generated>
+      <config projectName="Week_7___Functions" targetName="Week_7___Functions" />
+    </generated>
+  </component>
+  <component name="CMakeSettings">
+    <configurations>
+      <configuration PROFILE_NAME="Debug" ENABLED="true" CONFIG_NAME="Debug" />
+    </configurations>
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="864da977-9246-4db4-bc91-989e41372572" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/../Week 5 - Determine the date of Easter/.idea/.name" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Week 5 - Determine the date of Easter/.idea/Week 5 - Determine the date of Easter.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Week 5 - Determine the date of Easter/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Week 5 - Determine the date of Easter/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Week 5 - Determine the date of Easter/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Week 5 - Determine the date of Easter/CMakeLists.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Week 6 - Pointers/.idea/Week 6 - Pointers.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Week 6 - Pointers/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Week 6 - Pointers/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Week 6 - Pointers/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Week 6 - Pointers/CMakeLists.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/Week 7 - Functions.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/CMakeLists.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Week 5/easter" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Week 5/easter.c" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Week 5/t4i.pdf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Week 5/t4q.pdf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Week 6/max.c" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Week 6/t5q.pdf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Week 6/variables.c" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Week 6/variables1.c" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Week 6/variables2.c" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Week 7/middling.c.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Week 7/t6q.pdf" beforeDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ClangdSettings">
+    <option name="formatViaClangd" value="false" />
+  </component>
+  <component name="ExecutionTargetManager" SELECTED_TARGET="CMakeBuildProfile:Debug" />
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/../../.." />
+  </component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
+  </component>
+  <component name="ProjectApplicationVersion">
+    <option name="ide" value="CLion" />
+    <option name="majorVersion" value="2022" />
+    <option name="minorVersion" value="2.3" />
+  </component>
+  <component name="ProjectId" id="2FBLjxrB2V1cdsGAKlez6v2xwtY" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "ASKED_ADD_EXTERNAL_FILES": "true",
+    "ASKED_SHARE_PROJECT_CONFIGURATION_FILES": "true",
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "RunOnceActivity.cidr.known.project.marker": "true",
+    "SHARE_PROJECT_CONFIGURATION_FILES": "true",
+    "WebServerToolWindowFactoryState": "false",
+    "cf.first.check.clang-format": "false",
+    "cidr.known.project.marker": "true",
+    "last_opened_file_path": "D:/course-repos/Learning-C/Kit107 Abstract Data Types in Java and C/Tutorials/Week 7 - Functions"
+  }
+}]]></component>
+  <component name="RunManager">
+    <configuration default="true" type="CLionExternalRunConfiguration" factoryName="Application" REDIRECT_INPUT="false" ELEVATE="false" USE_EXTERNAL_CONSOLE="false" PASS_PARENT_ENVS_2="true">
+      <method v="2">
+        <option name="CLION.EXTERNAL.BUILD" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Week_7___Functions" type="CMakeRunConfiguration" factoryName="Application" REDIRECT_INPUT="false" ELEVATE="false" USE_EXTERNAL_CONSOLE="false" PASS_PARENT_ENVS_2="true" PROJECT_NAME="Week_7___Functions" TARGET_NAME="Week_7___Functions" CONFIG_NAME="Debug" RUN_TARGET_PROJECT_NAME="Week_7___Functions" RUN_TARGET_NAME="Week_7___Functions">
+      <method v="2">
+        <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="864da977-9246-4db4-bc91-989e41372572" name="Changes" comment="" />
+      <created>1663960672081</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1663960672081</updated>
+      <workItem from="1663960673775" duration="79000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
+  </component>
+</project>

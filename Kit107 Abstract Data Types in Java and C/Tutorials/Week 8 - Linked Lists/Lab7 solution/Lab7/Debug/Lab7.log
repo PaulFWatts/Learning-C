@@ -1,6 +1,0 @@
-﻿  Lab7.c
-D:\course-repos\Learning-C\Kit107 Abstract Data Types in Java and C\Tutorials\Week 8 - Linked Lists\Lab7 solution\Lab7\Lab7.c(30,2): warning C4013: 'getch' undefined; assuming extern returning int
-  position.c
-  team.c
-  Generating Code...
-  Lab7.vcxproj -> D:\course-repos\Learning-C\Kit107 Abstract Data Types in Java and C\Tutorials\Week 8 - Linked Lists\Lab7 solution\Debug\Lab7.exe
