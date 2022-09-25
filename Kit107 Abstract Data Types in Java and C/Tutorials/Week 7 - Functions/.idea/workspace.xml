@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
-  <component name="CMakePresetLoader"><![CDATA[{
-  "useNewFormat": true
-}]]></component>
+  <component name="CMakePresetLoader">{
+  &quot;useNewFormat&quot;: true
+}</component>
   <component name="CMakeReloadState">
     <option name="reloaded" value="true" />
   </component>
@@ -18,33 +18,8 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="864da977-9246-4db4-bc91-989e41372572" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/../Week 5 - Determine the date of Easter/.idea/.name" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Week 5 - Determine the date of Easter/.idea/Week 5 - Determine the date of Easter.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Week 5 - Determine the date of Easter/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Week 5 - Determine the date of Easter/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Week 5 - Determine the date of Easter/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Week 5 - Determine the date of Easter/CMakeLists.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Week 6 - Pointers/.idea/Week 6 - Pointers.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Week 6 - Pointers/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Week 6 - Pointers/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Week 6 - Pointers/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Week 6 - Pointers/CMakeLists.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/Week 7 - Functions.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/CMakeLists.txt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Week 5/easter" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Week 5/easter.c" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Week 5/t4i.pdf" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Week 5/t4q.pdf" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Week 6/max.c" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Week 6/t5q.pdf" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Week 6/variables.c" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Week 6/variables1.c" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Week 6/variables2.c" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Week 7/middling.c.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Week 7/t6q.pdf" beforeDir="false" />
+      <change afterPath="$PROJECT_DIR$/reverse.c" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -74,27 +49,27 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent"><![CDATA[{
-  "keyToString": {
-    "ASKED_ADD_EXTERNAL_FILES": "true",
-    "ASKED_SHARE_PROJECT_CONFIGURATION_FILES": "true",
-    "RunOnceActivity.OpenProjectViewOnStart": "true",
-    "RunOnceActivity.ShowReadmeOnStart": "true",
-    "RunOnceActivity.cidr.known.project.marker": "true",
-    "SHARE_PROJECT_CONFIGURATION_FILES": "true",
-    "WebServerToolWindowFactoryState": "false",
-    "cf.first.check.clang-format": "false",
-    "cidr.known.project.marker": "true",
-    "last_opened_file_path": "D:/course-repos/Learning-C/Kit107 Abstract Data Types in Java and C/Tutorials/Week 7 - Functions"
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;ASKED_ADD_EXTERNAL_FILES&quot;: &quot;true&quot;,
+    &quot;ASKED_SHARE_PROJECT_CONFIGURATION_FILES&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.cidr.known.project.marker&quot;: &quot;true&quot;,
+    &quot;SHARE_PROJECT_CONFIGURATION_FILES&quot;: &quot;true&quot;,
+    &quot;WebServerToolWindowFactoryState&quot;: &quot;false&quot;,
+    &quot;cf.first.check.clang-format&quot;: &quot;false&quot;,
+    &quot;cidr.known.project.marker&quot;: &quot;true&quot;,
+    &quot;last_opened_file_path&quot;: &quot;D:/course-repos/Learning-C/Kit107 Abstract Data Types in Java and C/Tutorials/Week 7 - Functions&quot;
   }
-}]]></component>
+}</component>
   <component name="RunManager">
-    <configuration default="true" type="CLionExternalRunConfiguration" factoryName="Application" REDIRECT_INPUT="false" ELEVATE="false" USE_EXTERNAL_CONSOLE="false" PASS_PARENT_ENVS_2="true">
+    <configuration name="Week_7___Functions" type="CMakeRunConfiguration" factoryName="Application" REDIRECT_INPUT="false" ELEVATE="false" USE_EXTERNAL_CONSOLE="false" PASS_PARENT_ENVS_2="true" PROJECT_NAME="Week_7___Functions" TARGET_NAME="Week_7___Functions" CONFIG_NAME="Debug" RUN_TARGET_PROJECT_NAME="Week_7___Functions" RUN_TARGET_NAME="Week_7___Functions">
       <method v="2">
-        <option name="CLION.EXTERNAL.BUILD" enabled="true" />
+        <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Week_7___Functions" type="CMakeRunConfiguration" factoryName="Application" REDIRECT_INPUT="false" ELEVATE="false" USE_EXTERNAL_CONSOLE="false" PASS_PARENT_ENVS_2="true" PROJECT_NAME="Week_7___Functions" TARGET_NAME="Week_7___Functions" CONFIG_NAME="Debug" RUN_TARGET_PROJECT_NAME="Week_7___Functions" RUN_TARGET_NAME="Week_7___Functions">
+    <configuration default="true" type="CMakeRunConfiguration" factoryName="Application" REDIRECT_INPUT="false" ELEVATE="false" USE_EXTERNAL_CONSOLE="false" PASS_PARENT_ENVS_2="true">
       <method v="2">
         <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
       </method>
@@ -109,6 +84,7 @@
       <option name="presentableId" value="Default" />
       <updated>1663960672081</updated>
       <workItem from="1663960673775" duration="79000" />
+      <workItem from="1664079548260" duration="909000" />
     </task>
     <servers />
   </component>
