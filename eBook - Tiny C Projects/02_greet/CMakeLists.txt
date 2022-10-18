@@ -1,0 +1,18 @@
+cmake_minimum_required(VERSION 3.22)
+project(02_greet C)
+
+set(CMAKE_C_STANDARD 99)
+
+add_executable(greet01 greet01.c)
+add_executable(greet02 greet02.c)
+add_executable(greet03 greet03.c)
+add_executable(greet04 greet04.c)
+add_executable(greet05 greet05.c)
+add_executable(moon01 moon01.c)
+add_executable(pithy01 pithy01.c)
+add_executable(pithy02 pithy02.c)
+add_executable(pithy03 pithy03.c)
+add_executable(pithy04 pithy04.c)
+add_executable(pithy05 pithy05.c)
+add_executable(pithy06 pithy06.c)
+add_executable(time01 time01.c)
