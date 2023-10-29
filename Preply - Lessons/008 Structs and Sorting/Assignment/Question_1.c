@@ -6,16 +6,15 @@
 
 #include <stdio.h>
 
-
 int main()
 {
     char str[100];
     int i = 0;
 
     printf("Enter a string without spaces: ");
-    scanf("%s", str);
+    fgets(str, 100, stdin);
 
-    while(str[i] != '\0')
+    while (str[i] != '\n')
     {
         i++;
     }
@@ -24,4 +23,5 @@ int main()
 
     return 0;
 }
+
 
